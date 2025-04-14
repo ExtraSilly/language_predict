@@ -1,0 +1,405 @@
+1. Xã hội học nghiên cứu các mối quan hệ xã hội.
+2. Biến đổi xã hội diễn ra nhanh chóng hiện nay.
+3. Phân tầng xã hội tồn tại trong mọi xã hội.
+4. Đô thị hóa tác động đến cấu trúc xã hội.
+5. Gia đình là tế bào cơ bản của xã hội.
+6. Bất bình đẳng xã hội cần được giải quyết.
+7. Di cư làm thay đổi cơ cấu dân số.
+8. Tôn giáo ảnh hưởng đến đời sống xã hội.
+9. Giáo dục là động lực phát triển xã hội.
+10. Văn hóa định hình hành vi xã hội.
+11. Xã hội học đô thị nghiên cứu đô thị hóa.
+12. Biến đổi khí hậu tác động đến xã hội.
+13. Phong trào xã hội thúc đẩy thay đổi.
+14. Đô thị hóa tạo ra nhiều thách thức.
+15. Gia đình hiện đại đang thay đổi.
+16. Bất bình đẳng giới cần được xóa bỏ.
+17. Di cư quốc tế ngày càng phổ biến.
+18. Tôn giáo đóng vai trò quan trọng.
+19. Giáo dục đại học phát triển mạnh.
+20. Văn hóa đại chúng ảnh hưởng lớn.
+21. Xã hội học nông thôn nghiên cứu nông thôn.
+22. Biến đổi môi trường tác động xã hội.
+23. Phong trào nữ quyền phát triển mạnh.
+24. Đô thị hóa tạo cơ hội việc làm.
+25. Gia đình truyền thống có nhiều thay đổi.
+26. Bất bình đẳng thu nhập gia tăng.
+27. Di cư nông thôn thành thị phổ biến.
+28. Tôn giáo mới xuất hiện nhiều.
+29. Giáo dục nghề nghiệp phát triển.
+30. Văn hóa truyền thống bị ảnh hưởng.
+31. Xã hội học kinh tế nghiên cứu thị trường.
+32. Biến đổi dân số diễn ra nhanh.
+33. Phong trào công nhân phát triển.
+34. Đô thị hóa gây ô nhiễm môi trường.
+35. Gia đình đơn thân ngày càng nhiều.
+36. Bất bình đẳng giáo dục tồn tại.
+37. Di cư lao động ảnh hưởng kinh tế.
+38. Tôn giáo thích nghi thời đại mới.
+39. Giáo dục số hóa phát triển.
+40. Văn hóa doanh nghiệp quan trọng.
+41. Xã hội học chính trị nghiên cứu quyền lực.
+42. Biến đổi giá trị xã hội diễn ra.
+43. Phong trào môi trường phát triển.
+44. Đô thị thông minh được xây dựng.
+45. Gia đình hạt nhân phổ biến.
+46. Bất bình đẳng y tế tồn tại.
+47. Di cư chất xám diễn ra.
+48. Tôn giáo và khoa học phát triển.
+49. Giáo dục toàn cầu hóa mạnh.
+50. Văn hóa số phát triển nhanh.
+51. Xã hội học tôn giáo nghiên cứu niềm tin.
+52. Biến đổi lối sống diễn ra.
+53. Phong trào dân quyền phát triển.
+54. Đô thị bền vững được xây dựng.
+55. Gia đình đa thế hệ tồn tại.
+56. Bất bình đẳng số gia tăng.
+57. Di cư môi trường xuất hiện.
+58. Tôn giáo và chính trị tương tác.
+59. Giáo dục suốt đời quan trọng.
+60. Văn hóa mạng phát triển mạnh.
+61. Xã hội học giáo dục nghiên cứu học tập.
+62. Biến đổi công nghệ tác động.
+63. Phong trào thanh niên phát triển.
+64. Đô thị sáng tạo được xây dựng.
+65. Gia đình đồng tính được công nhận.
+66. Bất bình đẳng vùng miền tồn tại.
+67. Di cư tự nguyện gia tăng.
+68. Tôn giáo và văn hóa gắn kết.
+69. Giáo dục sáng tạo phát triển.
+70. Văn hóa giải trí phát triển.
+71. Xã hội học y tế nghiên cứu sức khỏe.
+72. Biến đổi truyền thông diễn ra.
+73. Phong trào xã hội mới xuất hiện.
+74. Đô thị sinh thái được quy hoạch.
+75. Gia đình xuyên quốc gia tồn tại.
+76. Bất bình đẳng thế hệ xuất hiện.
+77. Di cư cưỡng bức xảy ra.
+78. Tôn giáo và giáo dục liên kết.
+79. Giáo dục đặc biệt phát triển.
+80. Văn hóa thanh niên thay đổi.
+81. Xã hội học môi trường nghiên cứu sinh thái.
+82. Biến đổi việc làm diễn ra.
+83. Phong trào sinh viên phát triển.
+84. Đô thị công nghiệp phát triển.
+85. Gia đình công nhân gặp khó khăn.
+86. Bất bình đẳng công nghệ tồn tại.
+87. Di cư trí thức gia tăng.
+88. Tôn giáo và khoa học phát triển.
+89. Giáo dục hòa nhập được chú trọng.
+90. Văn hóa công sở thay đổi.
+91. Xã hội học văn hóa nghiên cứu giá trị.
+92. Biến đổi giới tính diễn ra.
+93. Phong trào công đoàn phát triển.
+94. Đô thị du lịch được quy hoạch.
+95. Gia đình nông thôn thay đổi.
+96. Bất bình đẳng môi trường tồn tại.
+97. Di cư mùa vụ phổ biến.
+98. Tôn giáo và xã hội tương tác.
+99. Giáo dục kỹ năng được chú trọng.
+100. Văn hóa làm việc thay đổi.
+101. Xã hội học phát triển nghiên cứu quá trình hiện đại hóa.
+102. Phân tích xã hội học về biến đổi văn hóa truyền thống.
+103. Xã hội học đô thị nghiên cứu quy hoạch đô thị bền vững.
+104. Phân tích xã hội học về bất bình đẳng thu nhập.
+105. Xã hội học văn hóa nghiên cứu văn hóa đại chúng.
+106. Phân tích xã hội học về di cư quốc tế.
+107. Xã hội học chính trị nghiên cứu quyền lực xã hội.
+108. Phân tích xã hội học về bất bình đẳng giới.
+109. Xã hội học truyền thông nghiên cứu truyền thông mới.
+110. Phân tích xã hội học về biến đổi dân số.
+111. Xã hội học y tế nghiên cứu y tế công cộng.
+112. Phân tích xã hội học về bất bình đẳng giáo dục.
+113. Xã hội học đô thị nghiên cứu quy hoạch đô thị.
+114. Phân tích xã hội học về di cư môi trường.
+115. Xã hội học giáo dục nghiên cứu chính sách giáo dục.
+116. Phân tích xã hội học về bất bình đẳng số.
+117. Xã hội học truyền thông nghiên cứu truyền thông số.
+118. Phân tích xã hội học về biến đổi gia đình.
+119. Xã hội học môi trường nghiên cứu phát triển bền vững.
+120. Phân tích xã hội học về bất bình đẳng vùng miền.
+121. Xã hội học văn hóa nghiên cứu văn hóa đại chúng.
+122. Phân tích xã hội học về di cư chất xám.
+123. Xã hội học chính trị nghiên cứu dân chủ xã hội.
+124. Phân tích xã hội học về bất bình đẳng thế hệ.
+125. Xã hội học truyền thông nghiên cứu truyền thông đại chúng.
+126. Phân tích xã hội học về biến đổi xã hội.
+127. Xã hội học y tế nghiên cứu y tế công cộng.
+128. Phân tích xã hội học về bất bình đẳng công nghệ.
+129. Xã hội học đô thị nghiên cứu đô thị thông minh.
+130. Phân tích xã hội học về di cư tự nguyện.
+131. Xã hội học giáo dục nghiên cứu giáo dục đại học.
+132. Phân tích xã hội học về bất bình đẳng môi trường.
+133. Xã hội học truyền thông nghiên cứu truyền thông xã hội.
+134. Phân tích xã hội học về biến đổi văn hóa.
+135. Xã hội học môi trường nghiên cứu biến đổi khí hậu.
+136. Phân tích xã hội học về bất bình đẳng thu nhập.
+137. Xã hội học văn hóa nghiên cứu văn hóa số.
+138. Phân tích xã hội học về di cư quốc tế.
+139. Xã hội học chính trị nghiên cứu quyền lực xã hội.
+140. Phân tích xã hội học về bất bình đẳng giới.
+141. Xã hội học truyền thông nghiên cứu truyền thông mới.
+142. Phân tích xã hội học về biến đổi dân số.
+143. Xã hội học y tế nghiên cứu y tế công cộng.
+144. Phân tích xã hội học về bất bình đẳng giáo dục.
+145. Xã hội học đô thị nghiên cứu quy hoạch đô thị.
+146. Phân tích xã hội học về di cư môi trường.
+147. Xã hội học giáo dục nghiên cứu chính sách giáo dục.
+148. Phân tích xã hội học về bất bình đẳng số.
+149. Xã hội học truyền thông nghiên cứu truyền thông số.
+150. Phân tích xã hội học về biến đổi gia đình.
+151. Xã hội học môi trường nghiên cứu phát triển bền vững.
+152. Phân tích xã hội học về bất bình đẳng vùng miền.
+153. Xã hội học văn hóa nghiên cứu văn hóa đại chúng.
+154. Phân tích xã hội học về di cư chất xám.
+155. Xã hội học chính trị nghiên cứu dân chủ xã hội.
+156. Phân tích xã hội học về bất bình đẳng thế hệ.
+157. Xã hội học truyền thông nghiên cứu truyền thông đại chúng.
+158. Phân tích xã hội học về biến đổi xã hội.
+159. Xã hội học y tế nghiên cứu y tế công cộng.
+160. Phân tích xã hội học về bất bình đẳng công nghệ.
+161. Xã hội học đô thị nghiên cứu đô thị thông minh.
+162. Phân tích xã hội học về di cư tự nguyện.
+163. Xã hội học giáo dục nghiên cứu giáo dục đại học.
+164. Phân tích xã hội học về bất bình đẳng môi trường.
+165. Xã hội học truyền thông nghiên cứu truyền thông xã hội.
+166. Phân tích xã hội học về biến đổi văn hóa.
+167. Xã hội học môi trường nghiên cứu biến đổi khí hậu.
+168. Phân tích xã hội học về bất bình đẳng thu nhập.
+169. Xã hội học văn hóa nghiên cứu văn hóa số.
+170. Phân tích xã hội học về di cư quốc tế.
+171. Xã hội học chính trị nghiên cứu quyền lực xã hội.
+172. Phân tích xã hội học về bất bình đẳng giới.
+173. Xã hội học truyền thông nghiên cứu truyền thông mới.
+174. Phân tích xã hội học về biến đổi dân số.
+175. Xã hội học y tế nghiên cứu y tế công cộng.
+176. Phân tích xã hội học về bất bình đẳng giáo dục.
+177. Xã hội học đô thị nghiên cứu quy hoạch đô thị.
+178. Phân tích xã hội học về di cư môi trường.
+179. Xã hội học giáo dục nghiên cứu chính sách giáo dục.
+180. Phân tích xã hội học về bất bình đẳng số.
+181. Xã hội học truyền thông nghiên cứu truyền thông số.
+182. Phân tích xã hội học về biến đổi gia đình.
+183. Xã hội học môi trường nghiên cứu phát triển bền vững.
+184. Phân tích xã hội học về bất bình đẳng vùng miền.
+185. Xã hội học văn hóa nghiên cứu văn hóa đại chúng.
+186. Phân tích xã hội học về di cư chất xám.
+187. Xã hội học chính trị nghiên cứu dân chủ xã hội.
+188. Phân tích xã hội học về bất bình đẳng thế hệ.
+189. Xã hội học truyền thông nghiên cứu truyền thông đại chúng.
+190. Phân tích xã hội học về biến đổi xã hội.
+191. Xã hội học y tế nghiên cứu y tế công cộng.
+192. Phân tích xã hội học về bất bình đẳng công nghệ.
+193. Xã hội học đô thị nghiên cứu đô thị thông minh.
+194. Phân tích xã hội học về di cư tự nguyện.
+195. Xã hội học giáo dục nghiên cứu giáo dục đại học.
+196. Phân tích xã hội học về bất bình đẳng môi trường.
+197. Xã hội học truyền thông nghiên cứu truyền thông xã hội.
+198. Phân tích xã hội học về biến đổi văn hóa.
+199. Xã hội học môi trường nghiên cứu biến đổi khí hậu.
+200. Phân tích xã hội học về bất bình đẳng thu nhập.
+201. Xã hội học văn hóa nghiên cứu văn hóa số.
+202. Phân tích xã hội học về di cư quốc tế.
+203. Xã hội học chính trị nghiên cứu quyền lực xã hội.
+204. Phân tích xã hội học về bất bình đẳng giới.
+205. Xã hội học truyền thông nghiên cứu truyền thông mới.
+206. Phân tích xã hội học về biến đổi dân số.
+207. Xã hội học y tế nghiên cứu y tế công cộng.
+208. Phân tích xã hội học về bất bình đẳng giáo dục.
+209. Xã hội học đô thị nghiên cứu quy hoạch đô thị.
+210. Phân tích xã hội học về di cư môi trường.
+211. Xã hội học giáo dục nghiên cứu chính sách giáo dục.
+212. Phân tích xã hội học về bất bình đẳng số.
+213. Xã hội học truyền thông nghiên cứu truyền thông số.
+214. Phân tích xã hội học về biến đổi gia đình.
+215. Xã hội học môi trường nghiên cứu phát triển bền vững.
+216. Phân tích xã hội học về bất bình đẳng vùng miền.
+217. Xã hội học văn hóa nghiên cứu văn hóa đại chúng.
+218. Phân tích xã hội học về di cư chất xám.
+219. Xã hội học chính trị nghiên cứu dân chủ xã hội.
+220. Phân tích xã hội học về bất bình đẳng thế hệ.
+221. Xã hội học truyền thông nghiên cứu truyền thông đại chúng.
+222. Phân tích xã hội học về biến đổi xã hội.
+223. Xã hội học y tế nghiên cứu y tế công cộng.
+224. Phân tích xã hội học về bất bình đẳng công nghệ.
+225. Xã hội học đô thị nghiên cứu đô thị thông minh.
+226. Phân tích xã hội học về di cư tự nguyện.
+227. Xã hội học giáo dục nghiên cứu giáo dục đại học.
+228. Phân tích xã hội học về bất bình đẳng môi trường.
+229. Xã hội học truyền thông nghiên cứu truyền thông xã hội.
+230. Phân tích xã hội học về biến đổi văn hóa.
+231. Xã hội học môi trường nghiên cứu biến đổi khí hậu.
+232. Phân tích xã hội học về bất bình đẳng thu nhập.
+233. Xã hội học văn hóa nghiên cứu văn hóa số.
+234. Phân tích xã hội học về di cư quốc tế.
+235. Xã hội học chính trị nghiên cứu quyền lực xã hội.
+236. Phân tích xã hội học về bất bình đẳng giới.
+237. Xã hội học truyền thông nghiên cứu truyền thông mới.
+238. Phân tích xã hội học về biến đổi dân số.
+239. Xã hội học y tế nghiên cứu y tế công cộng.
+240. Phân tích xã hội học về bất bình đẳng giáo dục.
+241. Xã hội học đô thị nghiên cứu quy hoạch đô thị.
+242. Phân tích xã hội học về di cư môi trường.
+243. Xã hội học giáo dục nghiên cứu chính sách giáo dục.
+244. Phân tích xã hội học về bất bình đẳng số.
+245. Xã hội học truyền thông nghiên cứu truyền thông số.
+246. Phân tích xã hội học về biến đổi gia đình.
+247. Xã hội học môi trường nghiên cứu phát triển bền vững.
+248. Phân tích xã hội học về bất bình đẳng vùng miền.
+249. Xã hội học văn hóa nghiên cứu văn hóa đại chúng.
+250. Phân tích xã hội học về di cư chất xám.
+251. Xã hội học chính trị nghiên cứu dân chủ xã hội.
+252. Phân tích xã hội học về bất bình đẳng thế hệ.
+253. Xã hội học truyền thông nghiên cứu truyền thông đại chúng.
+254. Phân tích xã hội học về biến đổi xã hội.
+255. Xã hội học y tế nghiên cứu y tế công cộng.
+256. Phân tích xã hội học về bất bình đẳng công nghệ.
+257. Xã hội học đô thị nghiên cứu đô thị thông minh.
+258. Phân tích xã hội học về di cư tự nguyện.
+259. Xã hội học giáo dục nghiên cứu giáo dục đại học.
+260. Phân tích xã hội học về bất bình đẳng môi trường.
+261. Xã hội học truyền thông nghiên cứu truyền thông xã hội.
+262. Phân tích xã hội học về biến đổi văn hóa.
+263. Xã hội học môi trường nghiên cứu biến đổi khí hậu.
+264. Phân tích xã hội học về bất bình đẳng thu nhập.
+265. Xã hội học văn hóa nghiên cứu văn hóa số.
+266. Phân tích xã hội học về di cư quốc tế.
+267. Xã hội học chính trị nghiên cứu quyền lực xã hội.
+268. Phân tích xã hội học về bất bình đẳng giới.
+269. Xã hội học truyền thông nghiên cứu truyền thông mới.
+270. Phân tích xã hội học về biến đổi dân số.
+271. Xã hội học y tế nghiên cứu y tế công cộng.
+272. Phân tích xã hội học về bất bình đẳng giáo dục.
+273. Xã hội học đô thị nghiên cứu quy hoạch đô thị.
+274. Phân tích xã hội học về di cư môi trường.
+275. Xã hội học giáo dục nghiên cứu chính sách giáo dục.
+276. Phân tích xã hội học về bất bình đẳng số.
+277. Xã hội học truyền thông nghiên cứu truyền thông số.
+278. Phân tích xã hội học về biến đổi gia đình.
+279. Xã hội học môi trường nghiên cứu phát triển bền vững.
+280. Phân tích xã hội học về bất bình đẳng vùng miền.
+281. Xã hội học văn hóa nghiên cứu văn hóa đại chúng.
+282. Phân tích xã hội học về di cư chất xám.
+283. Xã hội học chính trị nghiên cứu dân chủ xã hội.
+284. Phân tích xã hội học về bất bình đẳng thế hệ.
+285. Xã hội học truyền thông nghiên cứu truyền thông đại chúng.
+286. Phân tích xã hội học về biến đổi xã hội.
+287. Xã hội học y tế nghiên cứu y tế công cộng.
+288. Phân tích xã hội học về bất bình đẳng công nghệ.
+289. Xã hội học đô thị nghiên cứu đô thị thông minh.
+290. Phân tích xã hội học về di cư tự nguyện.
+291. Xã hội học giáo dục nghiên cứu giáo dục đại học.
+292. Phân tích xã hội học về bất bình đẳng môi trường.
+293. Xã hội học truyền thông nghiên cứu truyền thông xã hội.
+294. Phân tích xã hội học về biến đổi văn hóa.
+295. Xã hội học môi trường nghiên cứu biến đổi khí hậu.
+296. Phân tích xã hội học về bất bình đẳng thu nhập.
+297. Xã hội học văn hóa nghiên cứu văn hóa số.
+298. Phân tích xã hội học về di cư quốc tế.
+299. Xã hội học chính trị nghiên cứu quyền lực xã hội.
+300. Phân tích xã hội học về bất bình đẳng giới.
+301. Xã hội học truyền thông nghiên cứu truyền thông mới.
+302. Phân tích xã hội học về biến đổi dân số.
+303. Xã hội học y tế nghiên cứu y tế công cộng.
+304. Phân tích xã hội học về bất bình đẳng giáo dục.
+305. Xã hội học đô thị nghiên cứu quy hoạch đô thị.
+306. Phân tích xã hội học về di cư môi trường.
+307. Xã hội học giáo dục nghiên cứu chính sách giáo dục.
+308. Phân tích xã hội học về bất bình đẳng số.
+309. Xã hội học truyền thông nghiên cứu truyền thông số.
+310. Phân tích xã hội học về biến đổi gia đình.
+311. Xã hội học môi trường nghiên cứu phát triển bền vững.
+312. Phân tích xã hội học về bất bình đẳng vùng miền.
+313. Xã hội học văn hóa nghiên cứu văn hóa đại chúng.
+314. Phân tích xã hội học về di cư chất xám.
+315. Xã hội học chính trị nghiên cứu dân chủ xã hội.
+316. Phân tích xã hội học về bất bình đẳng thế hệ.
+317. Xã hội học truyền thông nghiên cứu truyền thông đại chúng.
+318. Phân tích xã hội học về biến đổi xã hội.
+319. Xã hội học y tế nghiên cứu y tế công cộng.
+320. Phân tích xã hội học về bất bình đẳng công nghệ.
+321. Xã hội học đô thị nghiên cứu đô thị thông minh.
+322. Phân tích xã hội học về di cư tự nguyện.
+323. Xã hội học giáo dục nghiên cứu giáo dục đại học.
+324. Phân tích xã hội học về bất bình đẳng môi trường.
+325. Xã hội học truyền thông nghiên cứu truyền thông xã hội.
+326. Phân tích xã hội học về biến đổi văn hóa.
+327. Xã hội học môi trường nghiên cứu biến đổi khí hậu.
+328. Phân tích xã hội học về bất bình đẳng thu nhập.
+329. Xã hội học văn hóa nghiên cứu văn hóa số.
+330. Phân tích xã hội học về di cư quốc tế.
+331. Xã hội học chính trị nghiên cứu quyền lực xã hội.
+332. Phân tích xã hội học về bất bình đẳng giới.
+333. Xã hội học truyền thông nghiên cứu truyền thông mới.
+334. Phân tích xã hội học về biến đổi dân số.
+335. Xã hội học y tế nghiên cứu y tế công cộng.
+336. Phân tích xã hội học về bất bình đẳng giáo dục.
+337. Xã hội học đô thị nghiên cứu quy hoạch đô thị.
+338. Phân tích xã hội học về di cư môi trường.
+339. Xã hội học giáo dục nghiên cứu chính sách giáo dục.
+340. Phân tích xã hội học về bất bình đẳng số.
+341. Xã hội học truyền thông nghiên cứu truyền thông số.
+342. Phân tích xã hội học về biến đổi gia đình.
+343. Xã hội học môi trường nghiên cứu phát triển bền vững.
+344. Phân tích xã hội học về bất bình đẳng vùng miền.
+345. Xã hội học văn hóa nghiên cứu văn hóa đại chúng.
+346. Phân tích xã hội học về di cư chất xám.
+347. Xã hội học chính trị nghiên cứu dân chủ xã hội.
+348. Phân tích xã hội học về bất bình đẳng thế hệ.
+349. Xã hội học truyền thông nghiên cứu truyền thông đại chúng.
+350. Phân tích xã hội học về biến đổi xã hội.
+351. Xã hội học y tế nghiên cứu y tế công cộng.
+352. Phân tích xã hội học về bất bình đẳng công nghệ.
+353. Xã hội học đô thị nghiên cứu đô thị thông minh.
+354. Phân tích xã hội học về di cư tự nguyện.
+355. Xã hội học giáo dục nghiên cứu giáo dục đại học.
+356. Phân tích xã hội học về bất bình đẳng môi trường.
+357. Xã hội học truyền thông nghiên cứu truyền thông xã hội.
+358. Phân tích xã hội học về biến đổi văn hóa.
+359. Xã hội học môi trường nghiên cứu biến đổi khí hậu.
+360. Phân tích xã hội học về bất bình đẳng thu nhập.
+361. Xã hội học văn hóa nghiên cứu văn hóa số.
+362. Phân tích xã hội học về di cư quốc tế.
+363. Xã hội học chính trị nghiên cứu quyền lực xã hội.
+364. Phân tích xã hội học về bất bình đẳng giới.
+365. Xã hội học truyền thông nghiên cứu truyền thông mới.
+366. Phân tích xã hội học về biến đổi dân số.
+367. Xã hội học y tế nghiên cứu y tế công cộng.
+368. Phân tích xã hội học về bất bình đẳng giáo dục.
+369. Xã hội học đô thị nghiên cứu quy hoạch đô thị.
+370. Phân tích xã hội học về di cư môi trường.
+371. Xã hội học giáo dục nghiên cứu chính sách giáo dục.
+372. Phân tích xã hội học về bất bình đẳng số.
+373. Xã hội học truyền thông nghiên cứu truyền thông số.
+374. Phân tích xã hội học về biến đổi gia đình.
+375. Xã hội học môi trường nghiên cứu phát triển bền vững.
+376. Phân tích xã hội học về bất bình đẳng vùng miền.
+377. Xã hội học văn hóa nghiên cứu văn hóa đại chúng.
+378. Phân tích xã hội học về di cư chất xám.
+379. Xã hội học chính trị nghiên cứu dân chủ xã hội.
+380. Phân tích xã hội học về bất bình đẳng thế hệ.
+381. Xã hội học truyền thông nghiên cứu truyền thông đại chúng.
+382. Phân tích xã hội học về biến đổi xã hội.
+383. Xã hội học y tế nghiên cứu y tế công cộng.
+384. Phân tích xã hội học về bất bình đẳng công nghệ.
+385. Xã hội học đô thị nghiên cứu đô thị thông minh.
+386. Phân tích xã hội học về di cư tự nguyện.
+387. Xã hội học giáo dục nghiên cứu giáo dục đại học.
+388. Phân tích xã hội học về bất bình đẳng môi trường.
+389. Xã hội học truyền thông nghiên cứu truyền thông xã hội.
+390. Phân tích xã hội học về biến đổi văn hóa.
+391. Xã hội học môi trường nghiên cứu biến đổi khí hậu.
+392. Phân tích xã hội học về bất bình đẳng thu nhập.
+393. Xã hội học văn hóa nghiên cứu văn hóa số.
+394. Phân tích xã hội học về di cư quốc tế.
+395. Xã hội học chính trị nghiên cứu quyền lực xã hội.
+396. Phân tích xã hội học về bất bình đẳng giới.
+397. Xã hội học truyền thông nghiên cứu truyền thông mới.
+398. Phân tích xã hội học về biến đổi dân số.
+399. Xã hội học y tế nghiên cứu y tế công cộng.
+400. Phân tích xã hội học về bất bình đẳng giáo dục.
+401. Xã hội học đô thị nghiên cứu quy hoạch đô thị.
+402. Phân tích xã hội học về di cư môi trường.
+403. Xã hội học giáo dục nghiên cứu chính sách giáo dục.
+404. Phân tích xã hội học về bất bình đẳng số.
+405. Xã hội học truyền thông nghiên cứu truyền thông số. 
