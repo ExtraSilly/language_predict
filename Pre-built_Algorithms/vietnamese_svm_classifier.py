@@ -6,7 +6,6 @@ from sklearn.metrics import classification_report, accuracy_score
 from sklearn.utils.class_weight import compute_class_weight
 import os
 import re
-import langid
 from typing import List, Dict, Tuple
 import warnings
 import pickle
@@ -54,11 +53,43 @@ class VietnameseSVMClassifier:
         # Create model directory if it doesn't exist
         if not os.path.exists(self.model_dir):
             os.makedirs(self.model_dir)
-        
+            
     def _is_vietnamese(self, text: str) -> bool:
-        """Check if text is in Vietnamese"""
-        lang, _ = langid.classify(text)
-        return lang == 'vi'
+        """Check if text is in Vietnamese using rule-based approach"""
+        if not text or len(text.strip()) == 0:
+            return False
+            
+        # Vietnamese-specific characters
+        vietnamese_chars = 'áàảãạăắằẳẵặâấầẩẫậéèẻẽẹêếềểễệíìỉĩịóòỏõọôốồổỗộơớờởỡợúùủũụưứừửữựýỳỷỹỵđ'
+        
+        # Count Vietnamese characters
+        viet_char_count = sum(1 for char in text if char in vietnamese_chars)
+        
+        # Count total word characters (excluding spaces and punctuation)
+        total_char_count = sum(1 for char in text if char.isalpha())
+        
+        # If there are no alphabetic characters, return False
+        if total_char_count == 0:
+            return False
+            
+        # Calculate the ratio of Vietnamese characters to total alphabetic characters
+        viet_char_ratio = viet_char_count / total_char_count
+        
+        # Common Vietnamese words
+        common_viet_words = ['và', 'của', 'các', 'là', 'có', 'được', 'trong', 'cho', 'với', 
+                            'đã', 'đang', 'sẽ', 'này', 'nọ', 'kia', 'đây', 'đó', 'nào', 
+                            'bao', 'nhiêu', 'mấy', 'tôi', 'bạn', 'anh', 'chị', 'em', 'họ', 
+                            'chúng', 'mình', 'những', 'một', 'hai', 'ba', 'bốn', 'năm', 
+                            'sáu', 'bảy', 'tám', 'chín', 'mười']
+        
+        # Count common Vietnamese words
+        word_count = 0
+        for word in common_viet_words:
+            if word in text.lower():
+                word_count += 1
+        
+        # If there are Vietnamese characters or common Vietnamese words, consider it Vietnamese
+        return viet_char_ratio > 0.05 or word_count >= 2
     
     def _preprocess_text(self, text: str) -> str:
         """Preprocess Vietnamese text with special handling for capitalized words"""
@@ -92,6 +123,28 @@ class VietnameseSVMClassifier:
             
         # Add domain-specific markers with enhanced keywords
         domain_terms = {
+            # Culture terms
+            'văn hóa': 'CULTURE_TERM CULTURE_KEYWORD',
+            'nghệ thuật': 'CULTURE_TERM CULTURE_KEYWORD',
+            'văn học': 'CULTURE_TERM CULTURE_KEYWORD',
+            'nhà văn': 'CULTURE_TERM CULTURE_KEYWORD',
+            'nhà thơ': 'CULTURE_TERM CULTURE_KEYWORD',
+            'tác phẩm': 'CULTURE_TERM CULTURE_KEYWORD',
+            'văn chương': 'CULTURE_TERM CULTURE_KEYWORD',
+            'nghệ sĩ': 'CULTURE_TERM CULTURE_KEYWORD',
+            'sáng tác': 'CULTURE_TERM CULTURE_KEYWORD',
+            'văn xuôi': 'CULTURE_TERM CULTURE_KEYWORD',
+            'thơ ca': 'CULTURE_TERM CULTURE_KEYWORD',
+            'truyện': 'CULTURE_TERM CULTURE_KEYWORD',
+            'tiểu thuyết': 'CULTURE_TERM CULTURE_KEYWORD',
+            'vở kịch': 'CULTURE_TERM CULTURE_KEYWORD',
+            'phim ảnh': 'CULTURE_TERM CULTURE_KEYWORD',
+            'âm nhạc': 'CULTURE_TERM CULTURE_KEYWORD',
+            'hội họa': 'CULTURE_TERM CULTURE_KEYWORD',
+            'điêu khắc': 'CULTURE_TERM CULTURE_KEYWORD',
+            'kiến trúc': 'CULTURE_TERM CULTURE_KEYWORD',
+            'di sản': 'CULTURE_TERM CULTURE_KEYWORD',
+            
             # Science terms
             'khoa học': 'SCIENCE_TERM SCIENCE_KEYWORD',
             'nghiên cứu': 'SCIENCE_TERM SCIENCE_KEYWORD',
@@ -117,16 +170,29 @@ class VietnameseSVMClassifier:
             'môn học': 'EDUCATION_TERM EDUCATION_KEYWORD',
             
             # Other domain terms
-            'kinh tế': 'ECONOMIC_TERM',
-            'gdp': 'ECONOMIC_TERM',
-            'thị trường': 'ECONOMIC_TERM',
+            'kinh tế': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'gdp': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'thị trường': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'tài chính': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'tiền tệ': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'ngân hàng': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'đầu tư': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'chứng khoán': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'lạm phát': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'tỷ giá': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'thuế': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'doanh nghiệp': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'thương mại': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'xuất khẩu': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'nhập khẩu': 'ECONOMIC_TERM ECONOMIC_KEYWORD',
+            'bitcoin': 'ECONOMIC_TERM CRYPTO_KEYWORD',
+            'tiền mã hóa': 'ECONOMIC_TERM CRYPTO_KEYWORD',
+            'blockchain': 'ECONOMIC_TERM CRYPTO_KEYWORD',
             'chính trị': 'POLITICAL_TERM',
             'quốc hội': 'POLITICAL_TERM',
             'chính phủ': 'POLITICAL_TERM',
             'công nghệ': 'TECH_TERM',
             'kỹ thuật': 'TECH_TERM',
-            'văn hóa': 'CULTURE_TERM',
-            'nghệ thuật': 'CULTURE_TERM',
             'môi trường': 'ENVIRONMENT_TERM',
             'sinh thái': 'ENVIRONMENT_TERM',
             'sức khỏe': 'HEALTH_TERM',
@@ -139,14 +205,35 @@ class VietnameseSVMClassifier:
         
         # Add context markers for important phrases
         context_phrases = {
+            # Culture professions
+            'nhà văn': 'CULTURE_PROFESSION',
+            'nhà thơ': 'CULTURE_PROFESSION',
+            'nghệ sĩ': 'CULTURE_PROFESSION',
+            'nhạc sĩ': 'CULTURE_PROFESSION',
+            'họa sĩ': 'CULTURE_PROFESSION',
+            'đạo diễn': 'CULTURE_PROFESSION',
+            'diễn viên': 'CULTURE_PROFESSION',
+            'nhà điêu khắc': 'CULTURE_PROFESSION',
+            'kiến trúc sư': 'CULTURE_PROFESSION',
+            
+            # Science professions
             'nhà khoa học': 'SCIENCE_PROFESSION',
-            'giáo viên': 'EDUCATION_PROFESSION',
             'nhà nghiên cứu': 'SCIENCE_PROFESSION',
+            'nghiên cứu sinh': 'SCIENCE_ROLE',
+            
+            # Education professions
+            'giáo viên': 'EDUCATION_PROFESSION',
             'nhà giáo': 'EDUCATION_PROFESSION',
             'giảng viên': 'EDUCATION_PROFESSION',
             'sinh viên': 'EDUCATION_ROLE',
             'học sinh': 'EDUCATION_ROLE',
-            'nghiên cứu sinh': 'SCIENCE_ROLE'
+            
+            # Economic professions
+            'nhà kinh tế': 'ECONOMIC_PROFESSION',
+            'chuyên gia tài chính': 'ECONOMIC_PROFESSION',
+            'nhà đầu tư': 'ECONOMIC_PROFESSION',
+            'doanh nhân': 'ECONOMIC_PROFESSION',
+            'học sinh': 'EDUCATION_ROLE'
         }
         
         # Apply domain terms

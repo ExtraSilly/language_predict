@@ -402,4 +402,299 @@
 402. Phân tích xã hội học về di cư môi trường.
 403. Xã hội học giáo dục nghiên cứu chính sách giáo dục.
 404. Phân tích xã hội học về bất bình đẳng số.
-405. Xã hội học truyền thông nghiên cứu truyền thông số. 
+405. Xã hội học truyền thông nghiên cứu truyền thông số.
+406. Xã hội học phát triển nghiên cứu hiện đại hóa.
+407. Phân tích xã hội học về biến đổi gia đình hiện đại.
+408. Xã hội học đô thị nghiên cứu đô thị hóa bền vững.
+409. Phân tích xã hội học về bất bình đẳng thu nhập toàn cầu.
+410. Xã hội học văn hóa nghiên cứu văn hóa số hóa.
+411. Phân tích xã hội học về di cư quốc tế hiện đại.
+412. Xã hội học chính trị nghiên cứu quyền lực xã hội đương đại.
+413. Phân tích xã hội học về bất bình đẳng giới toàn cầu.
+414. Xã hội học truyền thông nghiên cứu truyền thông số hóa.
+415. Phân tích xã hội học về biến đổi dân số hiện đại.
+416. Xã hội học y tế nghiên cứu y tế công cộng toàn cầu.
+417. Phân tích xã hội học về bất bình đẳng giáo dục hiện đại.
+418. Xã hội học đô thị nghiên cứu quy hoạch đô thị thông minh.
+419. Phân tích xã hội học về di cư môi trường toàn cầu.
+420. Xã hội học giáo dục nghiên cứu chính sách giáo dục hiện đại.
+421. Phân tích xã hội học về bất bình đẳng số hóa.
+422. Xã hội học truyền thông nghiên cứu truyền thông xã hội hiện đại.
+423. Phân tích xã hội học về biến đổi gia đình toàn cầu.
+424. Xã hội học môi trường nghiên cứu phát triển bền vững hiện đại.
+425. Phân tích xã hội học về bất bình đẳng vùng miền toàn cầu.
+426. Xã hội học văn hóa nghiên cứu văn hóa đại chúng hiện đại.
+427. Phân tích xã hội học về di cư chất xám toàn cầu.
+428. Xã hội học chính trị nghiên cứu dân chủ xã hội hiện đại.
+429. Phân tích xã hội học về bất bình đẳng thế hệ toàn cầu.
+430. Xã hội học truyền thông nghiên cứu truyền thông đại chúng hiện đại.
+431. Phân tích xã hội học về biến đổi xã hội toàn cầu.
+432. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+433. Phân tích xã hội học về bất bình đẳng công nghệ toàn cầu.
+434. Xã hội học đô thị nghiên cứu đô thị thông minh hiện đại.
+435. Phân tích xã hội học về di cư tự nguyện toàn cầu.
+436. Xã hội học giáo dục nghiên cứu giáo dục đại học hiện đại.
+437. Phân tích xã hội học về bất bình đẳng môi trường toàn cầu.
+438. Xã hội học truyền thông nghiên cứu truyền thông xã hội hiện đại.
+439. Phân tích xã hội học về biến đổi văn hóa toàn cầu.
+440. Xã hội học môi trường nghiên cứu biến đổi khí hậu hiện đại.
+441. Phân tích xã hội học về bất bình đẳng thu nhập toàn cầu.
+442. Xã hội học văn hóa nghiên cứu văn hóa số hiện đại.
+443. Phân tích xã hội học về di cư quốc tế toàn cầu.
+444. Xã hội học chính trị nghiên cứu quyền lực xã hội hiện đại.
+445. Phân tích xã hội học về bất bình đẳng giới toàn cầu.
+446. Xã hội học truyền thông nghiên cứu truyền thông mới hiện đại.
+447. Phân tích xã hội học về biến đổi dân số toàn cầu.
+448. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+449. Phân tích xã hội học về bất bình đẳng giáo dục toàn cầu.
+450. Xã hội học đô thị nghiên cứu quy hoạch đô thị hiện đại.
+451. Phân tích xã hội học về di cư môi trường toàn cầu.
+452. Xã hội học giáo dục nghiên cứu chính sách giáo dục hiện đại.
+453. Phân tích xã hội học về bất bình đẳng số toàn cầu.
+454. Xã hội học truyền thông nghiên cứu truyền thông số hiện đại.
+455. Phân tích xã hội học về biến đổi gia đình toàn cầu.
+456. Xã hội học môi trường nghiên cứu phát triển bền vững hiện đại.
+457. Phân tích xã hội học về bất bình đẳng vùng miền toàn cầu.
+458. Xã hội học văn hóa nghiên cứu văn hóa đại chúng hiện đại.
+459. Phân tích xã hội học về di cư chất xám toàn cầu.
+460. Xã hội học chính trị nghiên cứu dân chủ xã hội hiện đại.
+461. Phân tích xã hội học về bất bình đẳng thế hệ toàn cầu.
+462. Xã hội học truyền thông nghiên cứu truyền thông đại chúng hiện đại.
+463. Phân tích xã hội học về biến đổi xã hội toàn cầu.
+464. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+465. Phân tích xã hội học về bất bình đẳng công nghệ toàn cầu.
+466. Xã hội học đô thị nghiên cứu đô thị thông minh hiện đại.
+467. Phân tích xã hội học về di cư tự nguyện toàn cầu.
+468. Xã hội học giáo dục nghiên cứu giáo dục đại học hiện đại.
+469. Phân tích xã hội học về bất bình đẳng môi trường toàn cầu.
+470. Xã hội học truyền thông nghiên cứu truyền thông xã hội hiện đại.
+471. Phân tích xã hội học về biến đổi văn hóa toàn cầu.
+472. Xã hội học môi trường nghiên cứu biến đổi khí hậu hiện đại.
+473. Phân tích xã hội học về bất bình đẳng thu nhập toàn cầu.
+474. Xã hội học văn hóa nghiên cứu văn hóa số hiện đại.
+475. Phân tích xã hội học về di cư quốc tế toàn cầu.
+476. Xã hội học chính trị nghiên cứu quyền lực xã hội hiện đại.
+477. Phân tích xã hội học về bất bình đẳng giới toàn cầu.
+478. Xã hội học truyền thông nghiên cứu truyền thông mới hiện đại.
+479. Phân tích xã hội học về biến đổi dân số toàn cầu.
+480. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+481. Phân tích xã hội học về bất bình đẳng giáo dục toàn cầu.
+482. Xã hội học đô thị nghiên cứu quy hoạch đô thị hiện đại.
+483. Phân tích xã hội học về di cư môi trường toàn cầu.
+484. Xã hội học giáo dục nghiên cứu chính sách giáo dục hiện đại.
+485. Phân tích xã hội học về bất bình đẳng số toàn cầu.
+486. Xã hội học truyền thông nghiên cứu truyền thông số hiện đại.
+487. Phân tích xã hội học về biến đổi gia đình toàn cầu.
+488. Xã hội học môi trường nghiên cứu phát triển bền vững hiện đại.
+489. Phân tích xã hội học về bất bình đẳng vùng miền toàn cầu.
+490. Xã hội học văn hóa nghiên cứu văn hóa đại chúng hiện đại.
+491. Phân tích xã hội học về di cư chất xám toàn cầu.
+492. Xã hội học chính trị nghiên cứu dân chủ xã hội hiện đại.
+493. Phân tích xã hội học về bất bình đẳng thế hệ toàn cầu.
+494. Xã hội học truyền thông nghiên cứu truyền thông đại chúng hiện đại.
+495. Phân tích xã hội học về biến đổi xã hội toàn cầu.
+496. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+497. Phân tích xã hội học về bất bình đẳng công nghệ toàn cầu.
+498. Xã hội học đô thị nghiên cứu đô thị thông minh hiện đại.
+499. Phân tích xã hội học về di cư tự nguyện toàn cầu.
+500. Xã hội học giáo dục nghiên cứu giáo dục đại học hiện đại.
+501. Phân tích xã hội học về bất bình đẳng môi trường toàn cầu.
+502. Xã hội học truyền thông nghiên cứu truyền thông xã hội hiện đại.
+503. Phân tích xã hội học về biến đổi văn hóa toàn cầu.
+504. Xã hội học môi trường nghiên cứu biến đổi khí hậu hiện đại.
+505. Phân tích xã hội học về bất bình đẳng thu nhập toàn cầu.
+506. Xã hội học văn hóa nghiên cứu văn hóa số hiện đại.
+507. Phân tích xã hội học về di cư quốc tế toàn cầu.
+508. Xã hội học chính trị nghiên cứu quyền lực xã hội hiện đại.
+509. Phân tích xã hội học về bất bình đẳng giới toàn cầu.
+510. Xã hội học truyền thông nghiên cứu truyền thông mới hiện đại.
+511. Phân tích xã hội học về biến đổi dân số toàn cầu.
+512. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+513. Phân tích xã hội học về bất bình đẳng giáo dục toàn cầu.
+514. Xã hội học đô thị nghiên cứu quy hoạch đô thị hiện đại.
+515. Phân tích xã hội học về di cư môi trường toàn cầu.
+516. Xã hội học giáo dục nghiên cứu chính sách giáo dục hiện đại.
+517. Phân tích xã hội học về bất bình đẳng số toàn cầu.
+518. Xã hội học truyền thông nghiên cứu truyền thông số hiện đại.
+519. Phân tích xã hội học về biến đổi gia đình toàn cầu.
+520. Xã hội học môi trường nghiên cứu phát triển bền vững hiện đại.
+521. Phân tích xã hội học về bất bình đẳng vùng miền toàn cầu.
+522. Xã hội học văn hóa nghiên cứu văn hóa đại chúng hiện đại.
+523. Phân tích xã hội học về di cư chất xám toàn cầu.
+524. Xã hội học chính trị nghiên cứu dân chủ xã hội hiện đại.
+525. Phân tích xã hội học về bất bình đẳng thế hệ toàn cầu.
+526. Xã hội học truyền thông nghiên cứu truyền thông đại chúng hiện đại.
+527. Phân tích xã hội học về biến đổi xã hội toàn cầu.
+528. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+529. Phân tích xã hội học về bất bình đẳng công nghệ toàn cầu.
+530. Xã hội học đô thị nghiên cứu đô thị thông minh hiện đại.
+531. Phân tích xã hội học về di cư tự nguyện toàn cầu.
+532. Xã hội học giáo dục nghiên cứu giáo dục đại học hiện đại.
+533. Phân tích xã hội học về bất bình đẳng môi trường toàn cầu.
+534. Xã hội học truyền thông nghiên cứu truyền thông xã hội hiện đại.
+535. Phân tích xã hội học về biến đổi văn hóa toàn cầu.
+536. Xã hội học môi trường nghiên cứu biến đổi khí hậu hiện đại.
+537. Phân tích xã hội học về bất bình đẳng thu nhập toàn cầu.
+538. Xã hội học văn hóa nghiên cứu văn hóa số hiện đại.
+539. Phân tích xã hội học về di cư quốc tế toàn cầu.
+540. Xã hội học chính trị nghiên cứu quyền lực xã hội hiện đại.
+541. Phân tích xã hội học về bất bình đẳng giới toàn cầu.
+542. Xã hội học truyền thông nghiên cứu truyền thông mới hiện đại.
+543. Phân tích xã hội học về biến đổi dân số toàn cầu.
+544. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+545. Phân tích xã hội học về bất bình đẳng giáo dục toàn cầu.
+546. Xã hội học đô thị nghiên cứu quy hoạch đô thị hiện đại.
+547. Phân tích xã hội học về di cư môi trường toàn cầu.
+548. Xã hội học giáo dục nghiên cứu chính sách giáo dục hiện đại.
+549. Phân tích xã hội học về bất bình đẳng số toàn cầu.
+550. Xã hội học truyền thông nghiên cứu truyền thông số hiện đại.
+551. Phân tích xã hội học về biến đổi gia đình toàn cầu.
+552. Xã hội học môi trường nghiên cứu phát triển bền vững hiện đại.
+553. Phân tích xã hội học về bất bình đẳng vùng miền toàn cầu.
+554. Xã hội học văn hóa nghiên cứu văn hóa đại chúng hiện đại.
+555. Phân tích xã hội học về di cư chất xám toàn cầu.
+556. Xã hội học chính trị nghiên cứu dân chủ xã hội hiện đại.
+557. Phân tích xã hội học về bất bình đẳng thế hệ toàn cầu.
+558. Xã hội học truyền thông nghiên cứu truyền thông đại chúng hiện đại.
+559. Phân tích xã hội học về biến đổi xã hội toàn cầu.
+560. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+561. Phân tích xã hội học về bất bình đẳng công nghệ toàn cầu.
+562. Xã hội học đô thị nghiên cứu đô thị thông minh hiện đại.
+563. Phân tích xã hội học về di cư tự nguyện toàn cầu.
+564. Xã hội học giáo dục nghiên cứu giáo dục đại học hiện đại.
+565. Phân tích xã hội học về bất bình đẳng môi trường toàn cầu.
+566. Xã hội học truyền thông nghiên cứu truyền thông xã hội hiện đại.
+567. Phân tích xã hội học về biến đổi văn hóa toàn cầu.
+568. Xã hội học môi trường nghiên cứu biến đổi khí hậu hiện đại.
+569. Phân tích xã hội học về bất bình đẳng thu nhập toàn cầu.
+570. Xã hội học văn hóa nghiên cứu văn hóa số hiện đại.
+571. Phân tích xã hội học về di cư quốc tế toàn cầu.
+572. Xã hội học chính trị nghiên cứu quyền lực xã hội hiện đại.
+573. Phân tích xã hội học về bất bình đẳng giới toàn cầu.
+574. Xã hội học truyền thông nghiên cứu truyền thông mới hiện đại.
+575. Phân tích xã hội học về biến đổi dân số toàn cầu.
+576. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+577. Phân tích xã hội học về bất bình đẳng giáo dục toàn cầu.
+578. Xã hội học đô thị nghiên cứu quy hoạch đô thị hiện đại.
+579. Phân tích xã hội học về di cư môi trường toàn cầu.
+580. Xã hội học giáo dục nghiên cứu chính sách giáo dục hiện đại.
+581. Phân tích xã hội học về bất bình đẳng số toàn cầu.
+582. Xã hội học truyền thông nghiên cứu truyền thông số hiện đại.
+583. Phân tích xã hội học về biến đổi gia đình toàn cầu.
+584. Xã hội học môi trường nghiên cứu phát triển bền vững hiện đại.
+585. Phân tích xã hội học về bất bình đẳng vùng miền toàn cầu.
+586. Xã hội học văn hóa nghiên cứu văn hóa đại chúng hiện đại.
+587. Phân tích xã hội học về di cư chất xám toàn cầu.
+588. Xã hội học chính trị nghiên cứu dân chủ xã hội hiện đại.
+589. Phân tích xã hội học về bất bình đẳng thế hệ toàn cầu.
+590. Xã hội học truyền thông nghiên cứu truyền thông đại chúng hiện đại.
+591. Phân tích xã hội học về biến đổi xã hội toàn cầu.
+592. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+593. Phân tích xã hội học về bất bình đẳng công nghệ toàn cầu.
+594. Xã hội học đô thị nghiên cứu đô thị thông minh hiện đại.
+595. Phân tích xã hội học về di cư tự nguyện toàn cầu.
+596. Xã hội học giáo dục nghiên cứu giáo dục đại học hiện đại.
+597. Phân tích xã hội học về bất bình đẳng môi trường toàn cầu.
+598. Xã hội học truyền thông nghiên cứu truyền thông xã hội hiện đại.
+599. Phân tích xã hội học về biến đổi văn hóa toàn cầu.
+600. Xã hội học môi trường nghiên cứu biến đổi khí hậu hiện đại.
+601. Phân tích xã hội học về bất bình đẳng thu nhập toàn cầu.
+602. Xã hội học văn hóa nghiên cứu văn hóa số hiện đại.
+603. Phân tích xã hội học về di cư quốc tế toàn cầu.
+604. Xã hội học chính trị nghiên cứu quyền lực xã hội hiện đại.
+605. Phân tích xã hội học về bất bình đẳng giới toàn cầu.
+606. Xã hội học truyền thông nghiên cứu truyền thông mới hiện đại.
+607. Phân tích xã hội học về biến đổi dân số toàn cầu.
+608. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+609. Phân tích xã hội học về bất bình đẳng giáo dục toàn cầu.
+610. Xã hội học đô thị nghiên cứu quy hoạch đô thị hiện đại.
+611. Phân tích xã hội học về di cư môi trường toàn cầu.
+612. Xã hội học giáo dục nghiên cứu chính sách giáo dục hiện đại.
+613. Phân tích xã hội học về bất bình đẳng số toàn cầu.
+614. Xã hội học truyền thông nghiên cứu truyền thông số hiện đại.
+615. Phân tích xã hội học về biến đổi gia đình toàn cầu.
+616. Xã hội học môi trường nghiên cứu phát triển bền vững hiện đại.
+617. Phân tích xã hội học về bất bình đẳng vùng miền toàn cầu.
+618. Xã hội học văn hóa nghiên cứu văn hóa đại chúng hiện đại.
+619. Phân tích xã hội học về di cư chất xám toàn cầu.
+620. Xã hội học chính trị nghiên cứu dân chủ xã hội hiện đại.
+621. Phân tích xã hội học về bất bình đẳng thế hệ toàn cầu.
+622. Xã hội học truyền thông nghiên cứu truyền thông đại chúng hiện đại.
+623. Phân tích xã hội học về biến đổi xã hội toàn cầu.
+624. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+625. Phân tích xã hội học về bất bình đẳng công nghệ toàn cầu.
+626. Xã hội học đô thị nghiên cứu đô thị thông minh hiện đại.
+627. Phân tích xã hội học về di cư tự nguyện toàn cầu.
+628. Xã hội học giáo dục nghiên cứu giáo dục đại học hiện đại.
+629. Phân tích xã hội học về bất bình đẳng môi trường toàn cầu.
+630. Xã hội học truyền thông nghiên cứu truyền thông xã hội hiện đại.
+631. Phân tích xã hội học về biến đổi văn hóa toàn cầu.
+632. Xã hội học môi trường nghiên cứu biến đổi khí hậu hiện đại.
+633. Phân tích xã hội học về bất bình đẳng thu nhập toàn cầu.
+634. Xã hội học văn hóa nghiên cứu văn hóa số hiện đại.
+635. Phân tích xã hội học về di cư quốc tế toàn cầu.
+636. Xã hội học chính trị nghiên cứu quyền lực xã hội hiện đại.
+637. Phân tích xã hội học về bất bình đẳng giới toàn cầu.
+638. Xã hội học truyền thông nghiên cứu truyền thông mới hiện đại.
+639. Phân tích xã hội học về biến đổi dân số toàn cầu.
+640. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+641. Phân tích xã hội học về bất bình đẳng giáo dục toàn cầu.
+642. Xã hội học đô thị nghiên cứu quy hoạch đô thị hiện đại.
+643. Phân tích xã hội học về di cư môi trường toàn cầu.
+644. Xã hội học giáo dục nghiên cứu chính sách giáo dục hiện đại.
+645. Phân tích xã hội học về bất bình đẳng số toàn cầu.
+646. Xã hội học truyền thông nghiên cứu truyền thông số hiện đại.
+647. Phân tích xã hội học về biến đổi gia đình toàn cầu.
+648. Xã hội học môi trường nghiên cứu phát triển bền vững hiện đại.
+649. Phân tích xã hội học về bất bình đẳng vùng miền toàn cầu.
+650. Xã hội học văn hóa nghiên cứu văn hóa đại chúng hiện đại.
+651. Phân tích xã hội học về di cư chất xám toàn cầu.
+652. Xã hội học chính trị nghiên cứu dân chủ xã hội hiện đại.
+653. Phân tích xã hội học về bất bình đẳng thế hệ toàn cầu.
+654. Xã hội học truyền thông nghiên cứu truyền thông đại chúng hiện đại.
+655. Phân tích xã hội học về biến đổi xã hội toàn cầu.
+656. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+657. Phân tích xã hội học về bất bình đẳng công nghệ toàn cầu.
+658. Xã hội học đô thị nghiên cứu đô thị thông minh hiện đại.
+659. Phân tích xã hội học về di cư tự nguyện toàn cầu.
+660. Xã hội học giáo dục nghiên cứu giáo dục đại học hiện đại.
+661. Phân tích xã hội học về bất bình đẳng môi trường toàn cầu.
+662. Xã hội học truyền thông nghiên cứu truyền thông xã hội hiện đại.
+663. Phân tích xã hội học về biến đổi văn hóa toàn cầu.
+664. Xã hội học môi trường nghiên cứu biến đổi khí hậu hiện đại.
+665. Phân tích xã hội học về bất bình đẳng thu nhập toàn cầu.
+666. Xã hội học văn hóa nghiên cứu văn hóa số hiện đại.
+667. Phân tích xã hội học về di cư quốc tế toàn cầu.
+668. Xã hội học chính trị nghiên cứu quyền lực xã hội hiện đại.
+669. Phân tích xã hội học về bất bình đẳng giới toàn cầu.
+670. Xã hội học truyền thông nghiên cứu truyền thông mới hiện đại.
+671. Phân tích xã hội học về biến đổi dân số toàn cầu.
+672. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+673. Phân tích xã hội học về bất bình đẳng giáo dục toàn cầu.
+674. Xã hội học đô thị nghiên cứu quy hoạch đô thị hiện đại.
+675. Phân tích xã hội học về di cư môi trường toàn cầu.
+676. Xã hội học giáo dục nghiên cứu chính sách giáo dục hiện đại.
+677. Phân tích xã hội học về bất bình đẳng số toàn cầu.
+678. Xã hội học truyền thông nghiên cứu truyền thông số hiện đại.
+679. Phân tích xã hội học về biến đổi gia đình toàn cầu.
+680. Xã hội học môi trường nghiên cứu phát triển bền vững hiện đại.
+681. Phân tích xã hội học về bất bình đẳng vùng miền toàn cầu.
+682. Xã hội học văn hóa nghiên cứu văn hóa đại chúng hiện đại.
+683. Phân tích xã hội học về di cư chất xám toàn cầu.
+684. Xã hội học chính trị nghiên cứu dân chủ xã hội hiện đại.
+685. Phân tích xã hội học về bất bình đẳng thế hệ toàn cầu.
+686. Xã hội học truyền thông nghiên cứu truyền thông đại chúng hiện đại.
+687. Phân tích xã hội học về biến đổi xã hội toàn cầu.
+688. Xã hội học y tế nghiên cứu y tế công cộng hiện đại.
+689. Phân tích xã hội học về bất bình đẳng công nghệ toàn cầu.
+690. Xã hội học đô thị nghiên cứu đô thị thông minh hiện đại.
+691. Phân tích xã hội học về di cư tự nguyện toàn cầu.
+692. Xã hội học giáo dục nghiên cứu giáo dục đại học hiện đại.
+693. Phân tích xã hội học về bất bình đẳng môi trường toàn cầu.
+694. Xã hội học truyền thông nghiên cứu truyền thông xã hội hiện đại.
+695. Phân tích xã hội học về biến đổi văn hóa toàn cầu.
+696. Xã hội học môi trường nghiên cứu biến đổi khí hậu hiện đại.
+697. Phân tích xã hội học về bất bình đẳng thu nhập toàn cầu.
+698. Xã hội học văn hóa nghiên cứu văn hóa số hiện đại.
+699. Phân tích xã hội học về di cư quốc tế toàn cầu.
+700. Xã hội học chính trị nghiên cứu quyền lực xã hội hiện đại. 

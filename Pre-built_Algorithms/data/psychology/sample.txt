@@ -41,11 +41,11 @@
 41. Tâm lý học phát triển trẻ em rất quan trọng.
 42. Stress trong mối quan hệ gây xung đột.
 43. Tâm lý học thể thao nâng cao thành tích.
-44. Rối loạn tâm thần phân liệt cần điều trị.
+44. Rối loạn tâm thần phân liệt cần được điều trị.
 45. Tâm lý học tội phạm nghiên cứu hành vi.
 46. Stress trong học tập ảnh hưởng đến kết quả.
 47. Tâm lý học quân sự nâng cao tinh thần.
-48. Rối loạn căng thẳng sau sang chấn cần điều trị.
+48. Rối loạn căng thẳng sau sang chấn cần được điều trị.
 49. Tâm lý học môi trường nghiên cứu tác động.
 50. Stress trong công việc cần được giải tỏa.
 51. Tâm lý học văn hóa nghiên cứu khác biệt.
@@ -53,7 +53,7 @@
 53. Tâm lý học kinh tế nghiên cứu hành vi.
 54. Stress trong tình yêu gây đau khổ.
 55. Tâm lý học sáng tạo phát triển tư duy.
-56. Rối loạn trầm cảm theo mùa cần điều trị.
+56. Rối loạn trầm cảm theo mùa cần được điều trị.
 57. Tâm lý học đô thị nghiên cứu tác động.
 58. Stress trong thi cử cần được kiểm soát.
 59. Tâm lý học tôn giáo nghiên cứu niềm tin.
@@ -77,7 +77,7 @@
 77. Tâm lý học tội phạm nghiên cứu nguyên nhân.
 78. Stress trong học tập cần được giải tỏa.
 79. Tâm lý học quân sự nâng cao kỷ luật.
-80. Rối loạn căng thẳng cấp tính cần điều trị.
+80. Rối loạn căng thẳng cấp tính cần được điều trị.
 81. Tâm lý học môi trường nghiên cứu hành vi.
 82. Stress trong công việc ảnh hưởng sức khỏe.
 83. Tâm lý học văn hóa nghiên cứu đặc điểm.
@@ -298,103 +298,303 @@
 298. Tâm lý học tôn giáo nghiên cứu hành vi.
 299. Rối loạn ăn uống gây nguy hiểm.
 300. Tâm lý học giới tính nghiên cứu vai trò.
-301. Stress trong cuộc sống cần được giải tỏa.
-302. Tâm lý học thể thao nâng cao kỹ năng.
-303. Rối loạn hoang tưởng gây khó khăn.
-304. Tâm lý học nghệ thuật nghiên cứu sáng tạo.
-305. Stress trong mối quan hệ cần được xử lý.
-306. Tâm lý học truyền thông nghiên cứu tác động.
-307. Rối loạn lo âu cần được điều trị kịp thời.
-308. Tâm lý học tích cực thúc đẩy phát triển.
-309. Liệu pháp nhận thức hành vi giúp điều trị.
-310. Sức khỏe tâm thần là nền tảng hạnh phúc.
-311. Tâm lý học phát triển nghiên cứu thay đổi.
-312. Rối loạn tâm lý cần được phát hiện sớm.
-313. Tâm lý học xã hội nghiên cứu tương tác.
-314. Stress trong công việc ảnh hưởng hiệu suất.
-315. Tâm lý học nhận thức nghiên cứu trí nhớ.
-316. Rối loạn cảm xúc cần được điều trị.
-317. Tâm lý học hành vi nghiên cứu phản xạ.
-318. Stress trong học tập ảnh hưởng kết quả.
-319. Tâm lý học tổ chức nghiên cứu động lực.
-320. Rối loạn tâm thần cần được can thiệp.
-321. Tâm lý học thể thao nâng cao thành tích.
-322. Stress trong mối quan hệ gây căng thẳng.
-323. Tâm lý học nghệ thuật nghiên cứu sáng tạo.
-324. Rối loạn lo âu cần được điều trị.
-325. Tâm lý học tư vấn giúp định hướng.
-326. Stress trong gia đình ảnh hưởng trẻ.
-327. Tâm lý học quản lý nâng cao hiệu quả.
-328. Rối loạn ăn uống cần được can thiệp.
-329. Tâm lý học truyền thông nghiên cứu ảnh hưởng.
-330. Stress trong thi cử gây lo lắng.
-331. Tâm lý học đường phố nghiên cứu hành vi.
-332. Rối loạn hoảng sợ cần được điều trị.
-333. Tâm lý học thần kinh nghiên cứu não bộ.
-334. Stress trong tình yêu gây đau khổ.
-335. Tâm lý học văn hóa nghiên cứu khác biệt.
-336. Rối loạn nhân cách cần được can thiệp.
-337. Tâm lý học kinh tế nghiên cứu quyết định.
-338. Stress trong cuộc sống hiện đại phổ biến.
-339. Tâm lý học sáng tạo phát triển tư duy.
-340. Rối loạn trầm cảm cần được điều trị.
-341. Tâm lý học đô thị nghiên cứu tác động.
-342. Stress trong công việc cần được giải tỏa.
-343. Tâm lý học tôn giáo nghiên cứu niềm tin.
-344. Rối loạn lo âu xã hội cần được điều trị.
-345. Tâm lý học giới tính nghiên cứu khác biệt.
-346. Stress trong mối quan hệ cần được giải quyết.
-347. Tâm lý học thể thao tăng cường tập trung.
-348. Rối loạn hoang tưởng cần được điều trị.
-349. Tâm lý học nghệ thuật nghiên cứu cảm xúc.
-350. Stress trong gia đình cần được quan tâm.
-351. Tâm lý học quản lý nâng cao hiệu suất.
-352. Rối loạn tâm thần nặng cần được điều trị.
-353. Tâm lý học tội phạm nghiên cứu nguyên nhân.
-354. Stress trong học tập cần được giải tỏa.
-355. Tâm lý học quân sự nâng cao kỷ luật.
-356. Rối loạn căng thẳng cần được điều trị.
-357. Tâm lý học môi trường nghiên cứu tác động.
-358. Stress trong công việc ảnh hưởng sức khỏe.
-359. Tâm lý học văn hóa nghiên cứu đặc điểm.
-360. Rối loạn lo âu xã hội gây khó khăn.
-361. Tâm lý học kinh tế nghiên cứu hành vi.
-362. Stress trong tình yêu cần được vượt qua.
-363. Tâm lý học sáng tạo phát triển năng lực.
-364. Rối loạn trầm cảm nặng cần được điều trị.
-365. Tâm lý học đô thị nghiên cứu ảnh hưởng.
-366. Stress trong thi cử gây lo lắng.
-367. Tâm lý học tôn giáo nghiên cứu hành vi.
-368. Rối loạn ăn uống gây nguy hiểm.
-369. Tâm lý học giới tính nghiên cứu vai trò.
-370. Stress trong cuộc sống cần được giải tỏa.
-371. Tâm lý học thể thao nâng cao kỹ năng.
-372. Rối loạn hoang tưởng gây khó khăn.
-373. Tâm lý học nghệ thuật nghiên cứu sáng tạo.
-374. Stress trong mối quan hệ cần được xử lý.
-375. Tâm lý học truyền thông nghiên cứu tác động.
-376. Rối loạn lo âu cần được điều trị kịp thời.
-377. Tâm lý học tích cực thúc đẩy phát triển.
-378. Liệu pháp nhận thức hành vi giúp điều trị.
-379. Sức khỏe tâm thần là nền tảng hạnh phúc.
-380. Tâm lý học phát triển nghiên cứu thay đổi.
-381. Rối loạn tâm lý cần được phát hiện sớm.
-382. Tâm lý học xã hội nghiên cứu tương tác.
-383. Stress trong công việc ảnh hưởng hiệu suất.
-384. Tâm lý học nhận thức nghiên cứu trí nhớ.
-385. Rối loạn cảm xúc cần được điều trị.
-386. Tâm lý học hành vi nghiên cứu phản xạ.
-387. Stress trong học tập ảnh hưởng kết quả.
-388. Tâm lý học tổ chức nghiên cứu động lực.
-389. Rối loạn tâm thần cần được can thiệp.
-390. Tâm lý học thể thao nâng cao thành tích.
-391. Stress trong mối quan hệ gây căng thẳng.
-392. Tâm lý học nghệ thuật nghiên cứu sáng tạo.
-393. Rối loạn lo âu cần được điều trị.
-394. Tâm lý học tư vấn giúp định hướng.
-395. Stress trong gia đình ảnh hưởng trẻ.
-396. Tâm lý học quản lý nâng cao hiệu quả.
-397. Rối loạn ăn uống cần được can thiệp.
-398. Tâm lý học truyền thông nghiên cứu ảnh hưởng.
-399. Stress trong thi cử gây lo lắng.
-400. Tâm lý học đường phố nghiên cứu hành vi. 
+401. Tâm lý học phát triển nghiên cứu giai đoạn trưởng thành.
+402. Rối loạn tâm lý cần được phát hiện và điều trị sớm.
+403. Tâm lý học xã hội nghiên cứu hành vi tập thể.
+404. Stress trong công việc ảnh hưởng đến hiệu suất làm việc.
+405. Tâm lý học nhận thức nghiên cứu quá trình học tập.
+406. Rối loạn cảm xúc cần được điều trị kịp thời.
+407. Tâm lý học hành vi nghiên cứu phản ứng tự nhiên.
+408. Stress trong học tập ảnh hưởng đến kết quả học tập.
+409. Tâm lý học tổ chức nghiên cứu môi trường làm việc.
+410. Rối loạn tâm thần cần được can thiệp sớm.
+411. Tâm lý học thể thao nâng cao thành tích thi đấu.
+412. Stress trong mối quan hệ gây căng thẳng tâm lý.
+413. Tâm lý học nghệ thuật nghiên cứu sáng tạo nghệ thuật.
+414. Rối loạn lo âu cần được điều trị chuyên nghiệp.
+415. Tâm lý học tư vấn giúp định hướng nghề nghiệp.
+416. Stress trong gia đình ảnh hưởng đến trẻ em.
+417. Tâm lý học quản lý nâng cao hiệu quả làm việc.
+418. Rối loạn ăn uống cần được can thiệp kịp thời.
+419. Tâm lý học truyền thông nghiên cứu tác động xã hội.
+420. Stress trong thi cử gây lo lắng và căng thẳng.
+421. Tâm lý học đường phố nghiên cứu hành vi đám đông.
+422. Rối loạn hoảng sợ cần được điều trị chuyên sâu.
+423. Tâm lý học thần kinh nghiên cứu chức năng não bộ.
+424. Stress trong tình yêu gây đau khổ tinh thần.
+425. Tâm lý học văn hóa nghiên cứu khác biệt văn hóa.
+426. Rối loạn nhân cách cần được can thiệp chuyên môn.
+427. Tâm lý học kinh tế nghiên cứu hành vi tiêu dùng.
+428. Stress trong cuộc sống hiện đại phổ biến rộng rãi.
+429. Tâm lý học sáng tạo phát triển tư duy sáng tạo.
+430. Rối loạn trầm cảm cần được điều trị toàn diện.
+431. Tâm lý học đô thị nghiên cứu tác động đô thị hóa.
+432. Stress trong công việc cần được giải tỏa kịp thời.
+433. Tâm lý học tôn giáo nghiên cứu niềm tin tâm linh.
+434. Rối loạn lo âu xã hội cần được điều trị chuyên sâu.
+435. Tâm lý học giới tính nghiên cứu khác biệt giới tính.
+436. Stress trong mối quan hệ cần được giải quyết triệt để.
+437. Tâm lý học thể thao tăng cường tập trung tinh thần.
+438. Rối loạn hoang tưởng cần được điều trị chuyên môn.
+439. Tâm lý học nghệ thuật nghiên cứu cảm xúc nghệ thuật.
+440. Stress trong gia đình cần được quan tâm đúng mức.
+441. Tâm lý học quản lý nâng cao hiệu suất làm việc.
+442. Rối loạn tâm thần nặng cần được điều trị chuyên sâu.
+443. Tâm lý học tội phạm nghiên cứu nguyên nhân phạm tội.
+444. Stress trong học tập cần được giải tỏa hiệu quả.
+445. Tâm lý học quân sự nâng cao kỷ luật quân đội.
+446. Rối loạn căng thẳng cần được điều trị toàn diện.
+447. Tâm lý học môi trường nghiên cứu tác động môi trường.
+448. Stress trong công việc ảnh hưởng sức khỏe tinh thần.
+449. Tâm lý học văn hóa nghiên cứu đặc điểm văn hóa.
+450. Rối loạn lo âu xã hội gây khó khăn trong giao tiếp.
+451. Tâm lý học kinh tế nghiên cứu hành vi kinh tế.
+452. Stress trong tình yêu cần được vượt qua tích cực.
+453. Tâm lý học sáng tạo phát triển năng lực sáng tạo.
+454. Rối loạn trầm cảm nặng cần được điều trị chuyên sâu.
+455. Tâm lý học đô thị nghiên cứu ảnh hưởng đô thị hóa.
+456. Stress trong thi cử gây lo lắng và căng thẳng cao.
+457. Tâm lý học tôn giáo nghiên cứu hành vi tôn giáo.
+458. Rối loạn ăn uống gây nguy hiểm đến sức khỏe.
+459. Tâm lý học giới tính nghiên cứu vai trò giới tính.
+460. Stress trong cuộc sống cần được giải tỏa hiệu quả.
+461. Tâm lý học thể thao nâng cao kỹ năng thi đấu.
+462. Rối loạn hoang tưởng gây khó khăn trong cuộc sống.
+463. Tâm lý học nghệ thuật nghiên cứu sáng tạo nghệ thuật.
+464. Stress trong mối quan hệ cần được xử lý khéo léo.
+465. Tâm lý học truyền thông nghiên cứu tác động truyền thông.
+466. Rối loạn lo âu cần được điều trị kịp thời và đúng cách.
+467. Tâm lý học tích cực thúc đẩy phát triển bản thân.
+468. Liệu pháp nhận thức hành vi giúp điều trị hiệu quả.
+469. Sức khỏe tâm thần là nền tảng cho hạnh phúc gia đình.
+470. Tâm lý học phát triển nghiên cứu thay đổi tâm lý.
+471. Rối loạn tâm lý cần được phát hiện và can thiệp sớm.
+472. Tâm lý học xã hội nghiên cứu tương tác xã hội.
+473. Stress trong công việc ảnh hưởng hiệu suất làm việc.
+474. Tâm lý học nhận thức nghiên cứu trí nhớ và học tập.
+475. Rối loạn cảm xúc cần được điều trị chuyên môn.
+476. Tâm lý học hành vi nghiên cứu phản xạ tự nhiên.
+477. Stress trong học tập ảnh hưởng kết quả học tập.
+478. Tâm lý học tổ chức nghiên cứu động lực làm việc.
+479. Rối loạn tâm thần cần được can thiệp chuyên sâu.
+480. Tâm lý học thể thao nâng cao thành tích thể thao.
+481. Stress trong mối quan hệ gây căng thẳng tâm lý.
+482. Tâm lý học nghệ thuật nghiên cứu sáng tạo nghệ thuật.
+483. Rối loạn lo âu cần được điều trị toàn diện.
+484. Tâm lý học tư vấn giúp định hướng cuộc sống.
+485. Stress trong gia đình ảnh hưởng đến trẻ em.
+486. Tâm lý học quản lý nâng cao hiệu quả quản lý.
+487. Rối loạn ăn uống cần được can thiệp chuyên môn.
+488. Tâm lý học truyền thông nghiên cứu ảnh hưởng truyền thông.
+489. Stress trong thi cử gây lo lắng và căng thẳng.
+490. Tâm lý học đường phố nghiên cứu hành vi xã hội.
+491. Rối loạn hoảng sợ cần được điều trị chuyên sâu.
+492. Tâm lý học thần kinh nghiên cứu chức năng thần kinh.
+493. Stress trong tình yêu gây đau khổ tinh thần.
+494. Tâm lý học văn hóa nghiên cứu khác biệt văn hóa.
+495. Rối loạn nhân cách cần được can thiệp chuyên môn.
+496. Tâm lý học kinh tế nghiên cứu hành vi tiêu dùng.
+497. Stress trong cuộc sống hiện đại phổ biến rộng rãi.
+498. Tâm lý học sáng tạo phát triển tư duy sáng tạo.
+499. Rối loạn trầm cảm cần được điều trị toàn diện.
+500. Tâm lý học đô thị nghiên cứu tác động đô thị hóa.
+501. Stress trong công việc cần được giải tỏa kịp thời.
+502. Tâm lý học tôn giáo nghiên cứu niềm tin tâm linh.
+503. Rối loạn lo âu xã hội cần được điều trị chuyên sâu.
+504. Tâm lý học giới tính nghiên cứu khác biệt giới tính.
+505. Stress trong mối quan hệ cần được giải quyết triệt để.
+506. Tâm lý học thể thao tăng cường tập trung tinh thần.
+507. Rối loạn hoang tưởng cần được điều trị chuyên môn.
+508. Tâm lý học nghệ thuật nghiên cứu cảm xúc nghệ thuật.
+509. Stress trong gia đình cần được quan tâm đúng mức.
+510. Tâm lý học quản lý nâng cao hiệu suất làm việc.
+511. Rối loạn tâm thần nặng cần được điều trị chuyên sâu.
+512. Tâm lý học tội phạm nghiên cứu nguyên nhân phạm tội.
+513. Stress trong học tập cần được giải tỏa hiệu quả.
+514. Tâm lý học quân sự nâng cao kỷ luật quân đội.
+515. Rối loạn căng thẳng cần được điều trị toàn diện.
+516. Tâm lý học môi trường nghiên cứu tác động môi trường.
+517. Stress trong công việc ảnh hưởng sức khỏe tinh thần.
+518. Tâm lý học văn hóa nghiên cứu đặc điểm văn hóa.
+519. Rối loạn lo âu xã hội gây khó khăn trong giao tiếp.
+520. Tâm lý học kinh tế nghiên cứu hành vi kinh tế.
+521. Stress trong tình yêu cần được vượt qua tích cực.
+522. Tâm lý học sáng tạo phát triển năng lực sáng tạo.
+523. Rối loạn trầm cảm nặng cần được điều trị chuyên sâu.
+524. Tâm lý học đô thị nghiên cứu ảnh hưởng đô thị hóa.
+525. Stress trong thi cử gây lo lắng và căng thẳng cao.
+526. Tâm lý học tôn giáo nghiên cứu hành vi tôn giáo.
+527. Rối loạn ăn uống gây nguy hiểm đến sức khỏe.
+528. Tâm lý học giới tính nghiên cứu vai trò giới tính.
+529. Stress trong cuộc sống cần được giải tỏa hiệu quả.
+530. Tâm lý học thể thao nâng cao kỹ năng thi đấu.
+531. Rối loạn hoang tưởng gây khó khăn trong cuộc sống.
+532. Tâm lý học nghệ thuật nghiên cứu sáng tạo nghệ thuật.
+533. Stress trong mối quan hệ cần được xử lý khéo léo.
+534. Tâm lý học truyền thông nghiên cứu tác động truyền thông.
+535. Rối loạn lo âu cần được điều trị kịp thời và đúng cách.
+536. Tâm lý học tích cực thúc đẩy phát triển bản thân.
+537. Liệu pháp nhận thức hành vi giúp điều trị hiệu quả.
+538. Sức khỏe tâm thần là nền tảng cho hạnh phúc gia đình.
+539. Tâm lý học phát triển nghiên cứu thay đổi tâm lý.
+540. Rối loạn tâm lý cần được phát hiện và can thiệp sớm.
+541. Tâm lý học xã hội nghiên cứu tương tác xã hội.
+542. Stress trong công việc ảnh hưởng hiệu suất làm việc.
+543. Tâm lý học nhận thức nghiên cứu trí nhớ và học tập.
+544. Rối loạn cảm xúc cần được điều trị chuyên môn.
+545. Tâm lý học hành vi nghiên cứu phản xạ tự nhiên.
+546. Stress trong học tập ảnh hưởng kết quả học tập.
+547. Tâm lý học tổ chức nghiên cứu động lực làm việc.
+548. Rối loạn tâm thần cần được can thiệp chuyên sâu.
+549. Tâm lý học thể thao nâng cao thành tích thể thao.
+550. Stress trong mối quan hệ gây căng thẳng tâm lý.
+551. Tâm lý học nghệ thuật nghiên cứu sáng tạo nghệ thuật.
+552. Rối loạn lo âu cần được điều trị toàn diện.
+553. Tâm lý học tư vấn giúp định hướng cuộc sống.
+554. Stress trong gia đình ảnh hưởng đến trẻ em.
+555. Tâm lý học quản lý nâng cao hiệu quả quản lý.
+556. Rối loạn ăn uống cần được can thiệp chuyên môn.
+557. Tâm lý học truyền thông nghiên cứu ảnh hưởng truyền thông.
+558. Stress trong thi cử gây lo lắng và căng thẳng.
+559. Tâm lý học đường phố nghiên cứu hành vi xã hội.
+560. Rối loạn hoảng sợ cần được điều trị chuyên sâu.
+561. Tâm lý học thần kinh nghiên cứu chức năng thần kinh.
+562. Stress trong tình yêu gây đau khổ tinh thần.
+563. Tâm lý học văn hóa nghiên cứu khác biệt văn hóa.
+564. Rối loạn nhân cách cần được can thiệp chuyên môn.
+565. Tâm lý học kinh tế nghiên cứu quyết định kinh tế.
+566. Stress trong cuộc sống hiện đại phổ biến rộng rãi.
+567. Tâm lý học sáng tạo phát triển tư duy sáng tạo.
+568. Rối loạn trầm cảm cần được điều trị toàn diện.
+569. Tâm lý học đô thị nghiên cứu tác động đô thị hóa.
+570. Stress trong công việc cần được giải tỏa kịp thời.
+571. Tâm lý học tôn giáo nghiên cứu niềm tin tâm linh.
+572. Rối loạn lo âu xã hội cần được điều trị chuyên sâu.
+573. Tâm lý học giới tính nghiên cứu khác biệt giới tính.
+574. Stress trong mối quan hệ cần được giải quyết triệt để.
+575. Tâm lý học thể thao tăng cường tập trung tinh thần.
+576. Rối loạn hoang tưởng cần được điều trị chuyên môn.
+577. Tâm lý học nghệ thuật nghiên cứu cảm xúc nghệ thuật.
+578. Stress trong gia đình cần được quan tâm đúng mức.
+579. Tâm lý học quản lý nâng cao hiệu suất làm việc.
+580. Rối loạn tâm thần nặng cần được điều trị chuyên sâu.
+581. Tâm lý học tội phạm nghiên cứu nguyên nhân phạm tội.
+582. Stress trong học tập cần được giải tỏa hiệu quả.
+583. Tâm lý học quân sự nâng cao kỷ luật quân đội.
+584. Rối loạn căng thẳng cần được điều trị toàn diện.
+585. Tâm lý học môi trường nghiên cứu tác động môi trường.
+586. Stress trong công việc ảnh hưởng sức khỏe tinh thần.
+587. Tâm lý học văn hóa nghiên cứu đặc điểm văn hóa.
+588. Rối loạn lo âu xã hội gây khó khăn trong giao tiếp.
+589. Tâm lý học kinh tế nghiên cứu hành vi kinh tế.
+590. Stress trong tình yêu cần được vượt qua tích cực.
+591. Tâm lý học sáng tạo phát triển năng lực sáng tạo.
+592. Rối loạn trầm cảm nặng cần được điều trị chuyên sâu.
+593. Tâm lý học đô thị nghiên cứu ảnh hưởng đô thị hóa.
+594. Stress trong thi cử gây lo lắng và căng thẳng cao.
+595. Tâm lý học tôn giáo nghiên cứu hành vi tôn giáo.
+596. Rối loạn ăn uống gây nguy hiểm đến sức khỏe.
+597. Tâm lý học giới tính nghiên cứu vai trò giới tính.
+598. Stress trong cuộc sống cần được giải tỏa hiệu quả.
+599. Tâm lý học thể thao nâng cao kỹ năng thi đấu.
+600. Rối loạn hoang tưởng gây khó khăn trong cuộc sống.
+601. Tâm lý học nghệ thuật nghiên cứu sáng tạo nghệ thuật.
+602. Stress trong mối quan hệ cần được xử lý khéo léo.
+603. Tâm lý học truyền thông nghiên cứu tác động truyền thông.
+604. Rối loạn lo âu cần được điều trị kịp thời và đúng cách.
+605. Tâm lý học tích cực thúc đẩy phát triển bản thân.
+606. Liệu pháp nhận thức hành vi giúp điều trị hiệu quả.
+607. Sức khỏe tâm thần là nền tảng hạnh phúc gia đình.
+608. Tâm lý học phát triển nghiên cứu thay đổi tâm lý.
+609. Rối loạn tâm lý cần được phát hiện và can thiệp sớm.
+610. Tâm lý học xã hội nghiên cứu tương tác xã hội.
+611. Stress trong công việc ảnh hưởng hiệu suất làm việc.
+612. Tâm lý học nhận thức nghiên cứu trí nhớ và học tập.
+613. Rối loạn cảm xúc cần được điều trị chuyên môn.
+614. Tâm lý học hành vi nghiên cứu phản xạ tự nhiên.
+615. Stress trong học tập ảnh hưởng kết quả học tập.
+616. Tâm lý học tổ chức nghiên cứu động lực làm việc.
+617. Rối loạn tâm thần cần được can thiệp chuyên sâu.
+618. Tâm lý học thể thao nâng cao thành tích thể thao.
+619. Stress trong mối quan hệ gây căng thẳng tâm lý.
+620. Tâm lý học nghệ thuật nghiên cứu sáng tạo nghệ thuật.
+621. Rối loạn lo âu cần được điều trị toàn diện.
+622. Tâm lý học tư vấn giúp định hướng cuộc sống.
+623. Stress trong gia đình ảnh hưởng đến trẻ em.
+624. Tâm lý học quản lý nâng cao hiệu quả quản lý.
+625. Rối loạn ăn uống cần được can thiệp chuyên môn.
+626. Tâm lý học truyền thông nghiên cứu ảnh hưởng truyền thông.
+627. Stress trong thi cử gây lo lắng và căng thẳng.
+628. Tâm lý học đường phố nghiên cứu hành vi xã hội.
+629. Rối loạn hoảng sợ cần được điều trị chuyên sâu.
+630. Tâm lý học thần kinh nghiên cứu chức năng thần kinh.
+631. Stress trong tình yêu gây đau khổ tinh thần.
+632. Tâm lý học văn hóa nghiên cứu khác biệt văn hóa.
+633. Rối loạn nhân cách cần được can thiệp chuyên môn.
+634. Tâm lý học kinh tế nghiên cứu quyết định kinh tế.
+635. Stress trong cuộc sống hiện đại phổ biến rộng rãi.
+636. Tâm lý học sáng tạo phát triển tư duy sáng tạo.
+637. Rối loạn trầm cảm cần được điều trị toàn diện.
+638. Tâm lý học đô thị nghiên cứu tác động đô thị hóa.
+639. Stress trong công việc cần được giải tỏa kịp thời.
+640. Tâm lý học tôn giáo nghiên cứu niềm tin tâm linh.
+641. Rối loạn lo âu xã hội cần được điều trị chuyên sâu.
+642. Tâm lý học giới tính nghiên cứu khác biệt giới tính.
+643. Stress trong mối quan hệ cần được giải quyết triệt để.
+644. Tâm lý học thể thao tăng cường tập trung tinh thần.
+645. Rối loạn hoang tưởng cần được điều trị chuyên môn.
+646. Tâm lý học nghệ thuật nghiên cứu cảm xúc nghệ thuật.
+647. Stress trong gia đình cần được quan tâm đúng mức.
+648. Tâm lý học quản lý nâng cao hiệu suất làm việc.
+649. Rối loạn tâm thần nặng cần được điều trị chuyên sâu.
+650. Tâm lý học tội phạm nghiên cứu nguyên nhân phạm tội.
+651. Stress trong học tập cần được giải tỏa hiệu quả.
+652. Tâm lý học quân sự nâng cao kỷ luật quân đội.
+653. Rối loạn căng thẳng cần được điều trị toàn diện.
+654. Tâm lý học môi trường nghiên cứu tác động môi trường.
+655. Stress trong công việc ảnh hưởng sức khỏe tinh thần.
+656. Tâm lý học văn hóa nghiên cứu đặc điểm văn hóa.
+657. Rối loạn lo âu xã hội gây khó khăn trong giao tiếp.
+658. Tâm lý học kinh tế nghiên cứu hành vi kinh tế.
+659. Stress trong tình yêu cần được vượt qua tích cực.
+660. Tâm lý học sáng tạo phát triển năng lực sáng tạo.
+661. Rối loạn trầm cảm nặng cần được điều trị chuyên sâu.
+662. Tâm lý học đô thị nghiên cứu ảnh hưởng đô thị hóa.
+663. Stress trong thi cử gây lo lắng và căng thẳng cao.
+664. Tâm lý học tôn giáo nghiên cứu hành vi tôn giáo.
+665. Rối loạn ăn uống gây nguy hiểm đến sức khỏe.
+666. Tâm lý học giới tính nghiên cứu vai trò giới tính.
+667. Stress trong cuộc sống cần được giải tỏa hiệu quả.
+668. Tâm lý học thể thao nâng cao kỹ năng thi đấu.
+669. Rối loạn hoang tưởng gây khó khăn trong cuộc sống.
+670. Tâm lý học nghệ thuật nghiên cứu sáng tạo nghệ thuật.
+671. Stress trong mối quan hệ cần được xử lý khéo léo.
+672. Tâm lý học truyền thông nghiên cứu tác động truyền thông.
+673. Rối loạn lo âu cần được điều trị kịp thời và đúng cách.
+674. Tâm lý học tích cực thúc đẩy phát triển bản thân.
+675. Liệu pháp nhận thức hành vi giúp điều trị hiệu quả.
+676. Sức khỏe tâm thần là nền tảng hạnh phúc gia đình.
+677. Tâm lý học phát triển nghiên cứu thay đổi tâm lý.
+678. Rối loạn tâm lý cần được phát hiện và can thiệp sớm.
+679. Tâm lý học xã hội nghiên cứu tương tác xã hội.
+680. Stress trong công việc ảnh hưởng hiệu suất làm việc.
+681. Tâm lý học nhận thức nghiên cứu trí nhớ và học tập.
+682. Rối loạn cảm xúc cần được điều trị chuyên môn.
+683. Tâm lý học hành vi nghiên cứu phản xạ tự nhiên.
+684. Stress trong học tập ảnh hưởng kết quả học tập.
+685. Tâm lý học tổ chức nghiên cứu động lực làm việc.
+686. Rối loạn tâm thần cần được can thiệp chuyên sâu.
+687. Tâm lý học thể thao nâng cao thành tích thể thao.
+688. Stress trong mối quan hệ gây căng thẳng tâm lý.
+689. Tâm lý học nghệ thuật nghiên cứu sáng tạo nghệ thuật.
+690. Rối loạn lo âu cần được điều trị toàn diện.
+691. Tâm lý học tư vấn giúp định hướng cuộc sống.
+692. Stress trong gia đình ảnh hưởng đến trẻ em.
+693. Tâm lý học quản lý nâng cao hiệu quả quản lý.
+694. Rối loạn ăn uống cần được can thiệp chuyên môn.
+695. Tâm lý học truyền thông nghiên cứu ảnh hưởng truyền thông.
+696. Stress trong thi cử gây lo lắng và căng thẳng.
+697. Tâm lý học đường phố nghiên cứu hành vi xã hội.
+698. Rối loạn hoảng sợ cần được điều trị chuyên sâu.
+699. Tâm lý học thần kinh nghiên cứu chức năng thần kinh.
+700. Stress trong tình yêu gây đau khổ tinh thần. 
